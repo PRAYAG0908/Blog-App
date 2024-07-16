@@ -1,6 +1,6 @@
 # DriveWise
 
-This Django application is blog application which provides car related cars.
+This Django application is blog application which provides car related blogs.
 
 ## Installation
 
